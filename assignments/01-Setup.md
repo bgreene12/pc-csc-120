@@ -76,10 +76,12 @@ won’t need to worry about branches in this course — we will always be
 working in the “main” branch); and 3. the “Fetch origin” button. You
 will want to get to know this button — when you click it, GitHub Desktop
 looks for any recent changes that have been made to the repository (so,
-for `pc-csc-120`, changes made by me); if it finds any, it updates your
-copy so that it’s in sync with the original repository (mine). I will be
-making frequent additions and changes to the repository, so you should
-be fetching regularly.
+for `pc-csc-120`, changes made by me). If it finds any, then it will
+allow you to “pull” them into your local copy of the repository — that
+is, by clicking the same button, which now reads “Pull from origin,” it
+will update your copy so that it’s in sync with the original repository
+(mine). I will be making frequent additions and changes to the
+repository, so you should be fetching and pulling regularly.
 
 Next, what you see under “Changes” are the files I’ve added while
 writing up this assignment. In brief, the way GitHub (or more generally,
