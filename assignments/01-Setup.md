@@ -78,8 +78,8 @@ will want to get to know this button — when you click it, GitHub Desktop
 looks for any recent changes that have been made to the repository (so,
 for `pc-csc-120`, changes made by me). If it finds any, then it will
 allow you to “pull” them into your local copy of the repository — that
-is, by clicking the same button, which now reads “Pull from origin,” it
-will update your copy so that it’s in sync with the original repository
+is, by clicking the same button, which now reads “Pull origin,” it will
+update your copy so that it’s in sync with the original repository
 (mine). I will be making frequent additions and changes to the
 repository, so you should be fetching and pulling regularly.
 
