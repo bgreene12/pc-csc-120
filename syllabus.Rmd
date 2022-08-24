@@ -1,5 +1,6 @@
 ---
 title: "CSC 120: Applied Data Analytics"
+date: "Fall 2022"
 output: pdf_document
 urlcolor: blue
 ---
