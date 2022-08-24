@@ -1,0 +1,26 @@
+---
+title: 'Assignment 0: Personal Data Request'
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Around Week 5, we will look at how businesses and organizations collect data about you. In some countries (e.g., the European Union) and U.S.\ [states](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/), you have a right to access all of the data that an organization keeps about you. Rhode Island is not one of those states, but many organizations will still furnish you with a partial or complete copy of your personal data on demand or upon request. Others will refuse.
+
+One dataset that I will be using as an example throughout the semester is a copy of my own extended streaming history from Spotify, which includes data for the last five years or so. Spotify makes it very easy to [download a partial copy](https://support.spotify.com/us/article/data-rights-and-privacy-settings/) of the personal data they collect, and I found them to be very cooperative when I requested a copy of my full data via e-mail.
+
+Your assignment is to request a copy of your personal data from an organization of your choice. You will need to do a little research to find out how to do it (start by Googling "request personal data from X"). If the data is available on demand, then go ahead and download it; otherwise, you will likely need to submit an online form or contact customer service. Around Week 5, I will ask you to explore your personal data and summarize some of your findings, but **you will not need to (nor are you encouraged to) share your data with the class or upload it to your repository.** 
+
+Because the process of requesting personal data can take a very long time for some organizations --- I'm looking at you, Nintendo, who took a full month to tell me that they wouldn't send me a single byte --- we should get started immediately. **All you need to do at this point is to request your data and then go onto Canvas and tell me where you've requested from.**
+
+The choice of organization is totally up to you. Some ideas include:
+
+* Music streaming services (e.g., Spotify)
+* Video streaming services (YouTube, Netflix, etc.)
+* Video game platforms and distribution services (Steam, PlayStation, etc.)
+* Storefronts (Amazon, EBay, etc.)
+* Smart TVs (e.g., Roku)
+
+There are probably dozens of options I haven't thought of. If you are online and logged in somewhere, then there's a very good chance that your data is being collected. 
