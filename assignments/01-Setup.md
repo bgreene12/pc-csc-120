@@ -61,10 +61,9 @@ folder, but you definitely shouldn’t keep it there).
 
 Now add your first repository. Go to File \> Clone Repository…, then
 choose the URL tab and type `willwerscheid/pc-csc-120` (the course
-repository, which you can view online
-[here](https://github.com/willwerscheid/pc-csc-120)). This will create a
-copy of the repository’s files on your computer. They are now yours to
-do with as you will.
+repository, which we’re in right now). This will create a copy of the
+repository’s files on your computer. They are now yours to do with as
+you will.
 
 Before moving on, take a moment to familiarize yourself with the GitHub
 Desktop interface:
@@ -75,13 +74,13 @@ The top bar shows: 1. The current repository; 2. the current branch (you
 won’t need to worry about branches in this course — we will always be
 working in the “main” branch); and 3. the “Fetch origin” button. You
 will want to get to know this button — when you click it, GitHub Desktop
-looks for any recent changes that have been made to the repository (so,
-for `pc-csc-120`, changes made by me). If it finds any, then it will
-allow you to “pull” them into your local copy of the repository — that
-is, by clicking the same button, which now reads “Pull origin,” it will
-update your copy so that it’s in sync with the original repository
-(mine). I will be making frequent additions and changes to the
-repository, so you should be fetching and pulling regularly.
+looks for any recent changes that have been made to the repository (for
+`pc-csc-120`, changes made by me). If it finds any, then it will allow
+you to “pull” them into your local copy of the repository — that is, by
+clicking the same button, which now reads “Pull origin,” it will update
+your copy so that it’s in sync with the online repository. I will be
+making frequent additions and changes to the repository, so you should
+be fetching and pulling regularly.
 
 Next, what you see under “Changes” are the files I’ve added while
 writing up this assignment. In brief, the way GitHub (or more generally,
@@ -109,8 +108,8 @@ which one of your ten commits titled “yet another commit, yawn emoji” is
 the one that broke everything.
 
 **Do not make any commits to the `pc-csc-120` repository.** This is for
-your sake, not mine, as it won’t change anything in the original
-repository; it will only cause problems when you attempt to fetch from
+your sake, not mine, as it won’t change anything in the online
+repository; it will only cause problems when you attempt to pull from
 origin later. You will have your own repositories to abuse later; this
 one is mine. If you do accidentally commit something, then you can undo
 the changes by right-clicking the commit and selecting “Revert Changes
@@ -149,8 +148,8 @@ this\! But be aware that it can take a long time to download and install
 (on a slow connection, it can take hours…). Once you’ve done so, make
 sure to restart RStudio before continuing.
 
-Now take another moment to familiarize yourself with the interface.
-Here’s what a fresh install looked like for me:
+Again take a moment to familiarize yourself with the interface. Here’s
+what a fresh install looked like for me:
 
 ![](images/rstudio.png)
 
@@ -178,10 +177,11 @@ with a repository. Let’s open one now. Click the icon, then “Open
 project…”, then navigate to the folder where the `pc-csc-120` repository
 was installed (for me, it was installed at
 `~/Documents/GitHub/pc-csc-120`). With the folder highlighted, click
-“Open.” You should now see the name of the project instead of
-“Project: (None).” If you’ve done all the setup needed (including, for
-Macs, installing Command Line Tools), you should also see a Git tab
-appear in the upper-right pane. We will explore this tab on Friday.
+“Open.” You should now see the name of the project (i.e.,
+`pc-csc-120`) instead of “Project: (None).” If you’ve done all the setup
+needed (including, for Macs, installing Command Line Tools), you should
+also see a Git tab appear in the upper-right pane. We will explore this
+tab on Friday.
 
 You will also see some changes in the lower-right pane. The project
 directory is now your working directory, and the files in that directory
@@ -225,8 +225,8 @@ you (and, if the package is well-documented, you should see all of the
 functions that are now available). Click into one of the functions, just
 to see what R documentation looks like. Next, using the text entry box
 next to the magnifying glass, try looking up something like `mean` or
-`median`. Don’t worry if you don’t understand all the details at this
-point.
+`median`. Don’t worry if you don’t understand many of the details at
+this point.
 
 The only other tab that you will need to become familiar with is the
 Plots tab, which will be useful once we get to the topic of data
@@ -234,7 +234,7 @@ visualization. You can permanently ignore the Viewer and Presentation
 tabs. I don’t know what they do.
 
 Finally, you can customize the appearance of RStudio using the various
-options under the View menu… but maybe don’t rearrange the panes until
+options under the View menu, but maybe don’t rearrange the panes until
 you’ve become more familiar with the software (I will be using the
 default layout throughout the course and it will be easier to follow
 along if you have the same layout). One thing you can do is to change
@@ -247,22 +247,18 @@ In class on Friday, in addition to any troubleshooting we need to do,
 you will tie all of the above together by creating an R Markdown
 document using RStudio and then adding it to your personal GitHub
 repository (which I will create for you after you’ve submitted your
-GitHub username on Canvas — HINT HINT). That will be the general
-workflow for the course: all future assignments and labs will be
-uploaded to a central location on GitHub (where they can be revised up
-until the end of the quarter) rather than as individual assignments on
-Canvas.
+GitHub username on Canvas — HINT HINT).
 
 ## Review
 
 Know how to answer the following:
 
-1.  What does the “Fetch origin” button do in GitHub Desktop?
+1.  What is the difference between fetching and pulling?
 
 2.  What are commits and reverts?
 
 3.  Where does RStudio display the current project?
 
-4.  How do you install and load R packages?
+4.  How can you install and load R packages?
 
-5.  How do you find out what a particular R function does?
+5.  How can you find out what a particular R function does?
