@@ -17,22 +17,22 @@ copy](https://support.spotify.com/us/article/data-rights-and-privacy-settings/)
 of the personal data they collect, and I found them to be very
 cooperative when I requested a copy of my full data via e-mail.
 
-Your assignment is to request a copy of your personal data from an
-organization of your choice. You will need to do a little research to
-find out how to do it (start by Googling “request personal data from
-X”). If the data is available on demand, then go ahead and download
-it; otherwise, you will likely need to submit an online form or contact
-customer service. Around Week 5, I will ask you to explore your personal
-data and summarize some of your findings, but **you will not need to
-(nor are you encouraged to) share your data with the class or upload it
-to your repository.**
+Your assignment is to request a copy of your personal data from a
+business, organization, or platform of your choice. You will need to do
+a little research to find out how to do it (start by Googling “request
+personal data from X”). If the data is available on demand, then go
+ahead and download it; otherwise, you will likely need to submit an
+online form or contact customer service. Around Week 5, I will ask you
+to explore your personal data and summarize some of your findings, but
+**you will not need to (nor are you encouraged to) share your data with
+the class or upload it to your repository.**
 
 Because the process of requesting personal data can take a very long
-time for some organizations — I’m looking at you, Nintendo, who took a
-full month to tell me that they wouldn’t send me a single byte — we
+time for some organizations (I’m looking at you, Nintendo, who took a
+full month to tell me that they wouldn’t send me a single byte), we
 should get started immediately. **All you need to do at this point is to
 request your data and then go onto Canvas and tell me where you’ve
-requested from.**
+requested from and how you submitted your request.**
 
 The choice of organization is totally up to you. Some ideas include:
 
@@ -40,9 +40,10 @@ The choice of organization is totally up to you. Some ideas include:
   - Video streaming services (YouTube, Netflix, etc.)
   - Video game platforms and distribution services (Steam, PlayStation,
     etc.)
-  - Storefronts (Amazon, EBay, etc.)
-  - Smart TVs (e.g., Roku)
+  - Storefronts (e.g., Amazon)
+  - “Smart” devices (Apple, Roku, etc.)
 
-There are probably dozens of options I haven’t thought of. If you are
-online and logged in somewhere, then there’s a very good chance that
-your data is being collected.
+In all, there are probably several dozen options that you can choose
+from. If you’re logged in somewhere, then there’s a very good chance
+that your data is being collected. I would simply suggest that you
+request a dataset that you will be interested to explore in some detail.
