@@ -80,7 +80,7 @@ You will also see some changes in the lower-right pane. The project directory is
 While R includes many useful functions out of the box, it's the number and variety of R packages available online that really makes it shine. In essence, a "package" is a collection of functions that are conveniently distributed as a single bundle. The first package we will install is R Markdown, which makes it very easy to write up reports in RStudio using a mixture of code snippets and textual commentary (for example, I wrote up this assignment using R Markdown). To install it, you simply need to type into your RStudio console:
 
 ```{r eval=FALSE}
-install.packages(rmarkdown)
+install.packages("rmarkdown")
 ```
 
 Do so now. Note that R Markdown needs a number of other packages to function, and these will be installed at the same time. You can see all of your installed packages by going to the Packages tab in the lower-right pane. But just because you've installed a package doesn't mean that you can use it! One of the packages that was installed for me at some point during setup is called `class`; to use the functions in that package, I need to enter `library(class)` into the console. Try it with `class` or some other package of your choice, and notice that once it's loaded, a checkmark appears next to the package in the Packages tab. (Some packages, such as `base` and `stats`, are automatically loaded whenever you boot up an R session.) Alternatively, you can load packages by simply checking the box in the Packages tab, which enters the `library` command into the console on your behalf. 

@@ -200,7 +200,7 @@ example, I wrote up this assignment using R Markdown). To install it,
 you simply need to type into your RStudio console:
 
 ``` r
-install.packages(rmarkdown)
+install.packages("rmarkdown")
 ```
 
 Do so now. Note that R Markdown needs a number of other packages to
