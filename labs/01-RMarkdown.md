@@ -46,17 +46,18 @@ message such as “added .Rproj file to .gitignore” and again click
 “Commit.”
 
 Congratulations\! You’ve made your first commit — that is, you’ve
-confirmed some changes on your local branch that you want to keep in the
-main repository. If you view the main repository online, however, they
-won’t appear there yet. To move the changes from your computer to the
-online repository, you’ll need to “push” them. You can do this within
-RStudio, but I find it easiest to do from GitHub Desktop — if you go
-there, you will notice that the “Fetch origin” button now says “Push
-origin.” If you click it (do so\!), your changes will be incorporated
-into the online repository, so that it is now in sync with your local
-copy. Pushing is, as you might expect, the opposite of pulling: pushing
-moves your local changes to the main online repository; pulling moves
-someone else’s changes from the main repository to your own local copy.
+confirmed some changes on your local copy of the repository that you
+want to keep in the main repository. If you view the main repository
+online, however, they won’t appear there yet. To move the changes from
+your computer to the online repository, you’ll need to “push” them. You
+can do this within RStudio, but I find it easiest to do from GitHub
+Desktop — if you go there, you will notice that the “Fetch origin”
+button now says “Push origin.” If you click it (do so\!), your changes
+will be incorporated into the online repository, so that it is now in
+sync with your local copy. Pushing is, as you might expect, the opposite
+of pulling: pushing moves your local changes to the main online
+repository; pulling moves someone else’s changes from the main
+repository to your own local copy.
 
 ## Create an R Markdown document
 
@@ -74,7 +75,7 @@ different option anyway.
 After creating the file, change `output: html_document` to `output:
 github_document` (this will make the document viewable on the GitHub
 website; otherwise it will appear as basically unreadable code). Save
-the file as `01L-Introduction.Rmd`. Please do not deviate from this file
+the file as `Introduction.Rmd`. Please do not deviate from this file
 name. If you’ve already screwed up and need to rename the file, check
 the file in the Files tab, click the Rename button, and do it right this
 time.
