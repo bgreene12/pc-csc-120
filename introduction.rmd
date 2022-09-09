@@ -1,0 +1,14 @@
+---
+title: "Introduction to Myself"
+author: "Brendan Greene"
+date: "2022-09-09"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Hello! I am Brendan Greene from Rumson New Jersey. I am a Junior at Providence College and I am living in Mal Brown this year. I am a Studio Art major with a focus in digital imaging and a minor Business and Innovation. 
